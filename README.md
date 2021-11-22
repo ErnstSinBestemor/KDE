@@ -6,8 +6,8 @@ Download regular arch Linux
 <br />https://archlinux.org/download
 <br />Make a bootable USB Drive
 
-For Linux and Mac Users, Download BalenaEtcher `https://www.balena.io/etcher/`
-<br />For Windows Users, Download BalenaEtcher or Rufus `https://rufus.ie/en/`
+For Linux and Mac Users, Download BalenaEtcher https://www.balena.io/etcher/
+<br />For Windows Users, Download BalenaEtcher or Rufus https://rufus.ie/en/
 
 After you made a bootable USB Drive launch it from BIOS / UEFI
 <br />After Arch Linux launches type
