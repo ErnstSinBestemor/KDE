@@ -37,7 +37,7 @@ After choosing your Desktop environment select your Drivers which matches your G
 
 After entering the Driver folder, run
 <br />`chmod +x installer.sh`
-<br />`.\installer.sh`
+<br />`./installer.sh`
 
 All necessary files will be automatically downloaded for you,
 <br />After installation you will be asked to create an account. Create the account and restart the computer
