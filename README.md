@@ -2,23 +2,22 @@
 
 Download regular arch Linux
 https://archlinux.org/download
-
-Make a bootable USB Drive
+<br />Make a bootable USB Drive
 
 For Linux and Mac Users, Download BalenaEtcher
-For Windows Users, Download BalenaEtcher or Rufus
+<br />For Windows Users, Download BalenaEtcher or Rufus
 
 After you made a bootable USB Drive launch it from BIOS / UEFI
-After Arch Linux launches type
+<br />After Arch Linux launches type
 
 "sudo pacman -S Syyu" that will update your operating system and after the update type
-
-"sudo pacman -S git" That will install git which will allow you to download OlaiOS
+<br />"sudo pacman -S git" That will install git which will allow you to download OlaiOS
 After Git it downloaded type
 "git clone https://github.com/OlaYZen/OlaiOS.git"
 
 After you have git clone,
 Right now, There are 5 Desktop environments ready to download, there is
+
 <br />**Cinnamon**
 <br />**GNOME**
 <br />**KDE**
