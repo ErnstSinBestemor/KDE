@@ -12,11 +12,11 @@ After you made a bootable USB Drive launch it from BIOS / UEFI
 
 "**sudo pacman -S Syyu**" that will update your operating system and after the update type
 <br />"**sudo pacman -S git**" That will install git which will allow you to download OlaiOS
-After Git it downloaded type
-"**git clone https://github.com/OlaYZen/OlaiOS.git**"
+<br />After Git it downloaded type
+<br />"**git clone https://github.com/OlaYZen/OlaiOS.git**"
 
 After you have git clone,
-Right now, There are 5 Desktop environments ready to download, there is
+<br />Right now, There are 5 Desktop environments ready to download, there is
 
 **Cinnamon**
 <br />**GNOME**
