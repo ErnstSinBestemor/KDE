@@ -1,6 +1,6 @@
 # **How to install OlaiOS**
 
-##Making a Bootable Device
+## Making a Bootable Device
 
 Download regular arch Linux
 <br />**https://archlinux.org/download**
