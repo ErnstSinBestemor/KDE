@@ -1,21 +1,36 @@
-How to install OlaiOS
+**How to install OlaiOS**
 
-First Git Clone my Github.
+Download regular arch Linux
+https://archlinux.org/download
+Make a bootable USB Drive
 
+For Linux and Mac Users, Download BalenaEtcher
+For Windows Users, Download BalenaEtcher or Rufus
+
+After you made a bootable USB Drive launch it from BIOS / UEFI
+After Arch Linux launches type
+
+"sudo pacman -S Syyu" that will update your operating system and after the update type
+"sudo pacman -S git" That will install git which will allow you to download OlaiOS
+After Git it downloaded type
 "git clone https://github.com/OlaYZen/OlaiOS.git"
 
-After git clone Choose which folder matches your GPU
+After you have git clone,
+Right now, There are 5 Desktop environments ready to download, there is
+
+**Cinnamon**
+**GNOME**
+**KDE**
+**MATE**
+**Xfce4**
+
 Choose your Desktop environment by running example
-
 "cd KDE"
-
 After choosing your Desktop environment select your Drivers which matches your GPU by running
-
 "cd Nvidia" or "cd AMD"
 
 
 After entering the Driver folder, run
-
 "chmod +x installer.sh"
 ".\installer.sh"
 
