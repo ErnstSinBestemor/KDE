@@ -23,13 +23,14 @@ After you have git clone, go to the OlaiOS Folder by Typing
 <br />`cd OlaiOS/`
 
 ## Selecting Desktop Environments
-Right now, There are 5 Desktop environments ready to download, there is
+Right now, There are 6 Desktop environments ready to download, there is
 
 - Cinnamon
 - GNOME
 - KDE
 - MATE
 - Xfce4
+- Budgie
 
 Choose your Desktop environment by running example
 <br />`cd KDE`
