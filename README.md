@@ -22,11 +22,11 @@ After you made a bootable USB Drive launch it from BIOS / UEFI
 After you have git clone,
 <br />Right now, There are 5 Desktop environments ready to download, there is
 
--Cinnamon
-<br />-GNOME
-<br />-KDE
-<br />-MATE
-<br />-Xfce4
+- Cinnamon
+<br /> - GNOME
+<br /> - KDE
+<br /> - MATE
+<br /> - Xfce4
 
 Choose your Desktop environment by running example
 <br />`cd KDE`
