@@ -1,14 +1,17 @@
 # **How to install OlaiOS**
 <img src="https://i.imgur.com/X8QbiuX.png"/>
 
+# **Features**
+- Preinstalled Steam
+- Brave Browser as default browser
+- Custom Neofetch Logo
+- Custom wallpapers
 # **Making a Bootable Device**
-
-Download regular arch Linux
-<br />https://archlinux.org/download
-<br />Make a bootable USB Drive
-
-For Linux and Mac Users, Download BalenaEtcher https://www.balena.io/etcher/
-<br />For Windows Users, Download BalenaEtcher or Rufus https://rufus.ie/en/
+#### Download regular arch Linux
+#### https://archlinux.org/download
+#### Make a bootable USB Drive
+#### For Linux and Mac Users, Download BalenaEtcher https://www.balena.io/etcher/
+#### For Windows Users, Download BalenaEtcher or Rufus https://rufus.ie/en/
 
 After you made a bootable USB Drive launch it from BIOS / UEFI
 <br />After Arch Linux launches type
