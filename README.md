@@ -39,7 +39,7 @@ After choosing your Desktop environment select your Drivers which matches your G
 
 ## Start the Script
 After entering the Driver folder, run
-<br />`chmod +x installer.sh`
+<br />`chmod +x installer.sh` then
 <br />`./installer.sh`
 
 All necessary files will be automatically downloaded for you,
