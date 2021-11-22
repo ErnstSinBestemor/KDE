@@ -42,3 +42,6 @@ All necessary files will be automatically downloaded for you,
 <br />After installation you will be asked to create an account. Create the account and restart the computer
 
 OlaiOS should be fully installed
+
+## Official Wiki
+- [Wiki](https://github.com/OlaYZen/OlaiOS/wiki/OlaiOS-Official-Wiki)
