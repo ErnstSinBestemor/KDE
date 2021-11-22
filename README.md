@@ -18,27 +18,23 @@ After Git it downloaded type
 After you have git clone,
 Right now, There are 5 Desktop environments ready to download, there is
 
-<br />**Cinnamon**
+**Cinnamon**
 <br />**GNOME**
 <br />**KDE**
 <br />**MATE**
 <br />**Xfce4**
 
 Choose your Desktop environment by running example
-
-"cd KDE"
+<br />"cd KDE"
 After choosing your Desktop environment select your Drivers which matches your GPU by running
-
-"cd Nvidia" or "cd AMD"
+<br />"cd Nvidia" or "cd AMD"
 
 
 After entering the Driver folder, run
-
-"chmod +x installer.sh"
-
-".\installer.sh"
+<br />"chmod +x installer.sh"
+<br />".\installer.sh"
 
 All necessary files will be automatically downloaded for you,
-After installation you will be asked to create an account. Create the account and restart the computer
+<br />After installation you will be asked to create an account. Create the account and restart the computer
 
 OlaiOS should be fully installed
