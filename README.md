@@ -1,4 +1,3 @@
-# **OlaiOS**
 <img src="https://i.imgur.com/X8QbiuX.png"/>
 
 # **Features**
