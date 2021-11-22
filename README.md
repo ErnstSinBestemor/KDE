@@ -14,7 +14,7 @@ After you made a bootable USB Drive launch it from BIOS / UEFI
 
 ## Building the OS
 
-`sudo pacman -S Syyu` that will update your operating system and after the update type
+`sudo pacman -Syyu` that will update your operating system and after the update type
 <br />`sudo pacman -S git` That will install git which will allow you to download OlaiOS
 <br />After Git it downloaded type
 <br />`git clone https://github.com/OlaYZen/OlaiOS.git`
