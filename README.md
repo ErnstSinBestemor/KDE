@@ -19,7 +19,8 @@ After you made a bootable USB Drive launch it from BIOS / UEFI
 <br />After Git it downloaded type
 <br />`git clone https://github.com/OlaYZen/OlaiOS.git`
 
-After you have git clone,
+After you have git clone, go to the OlaiOS Folder by Typing
+<br />`cd OlaiOS/`
 <br />Right now, There are 5 Desktop environments ready to download, there is
 
 - Cinnamon
