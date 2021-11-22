@@ -1,7 +1,7 @@
 # How to install OlaiOS
-<img src="https://repository-images.githubusercontent.com/430487153/ec622d88-da4c-4210-9c2c-dd4b09ab1271
-## Making a Bootable Device"/>
-## Making a Bootable Device
+<img src="https://i.imgur.com/X8QbiuX.png"/>
+
+# Making a Bootable Device
 
 Download regular arch Linux
 <br />https://archlinux.org/download
