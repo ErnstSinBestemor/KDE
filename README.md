@@ -23,7 +23,7 @@ Right now, There are 5 Desktop environments ready to download, there is
 **Cinnamon**
 
 **GNOME**
-\n**KDE**
+<br />**KDE**
 
 **MATE**
 
