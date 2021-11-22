@@ -21,6 +21,8 @@ After you made a bootable USB Drive launch it from BIOS / UEFI
 
 After you have git clone, go to the OlaiOS Folder by Typing
 <br />`cd OlaiOS/`
+
+## Selecting Desktop Environments
 <br />Right now, There are 5 Desktop environments ready to download, there is
 
 - Cinnamon
@@ -34,6 +36,7 @@ Choose your Desktop environment by running example
 After choosing your Desktop environment select your Drivers which matches your GPU by running
 <br />`cd Nvidia` or `cd AMD`
 
+## Start the Sript
 
 After entering the Driver folder, run
 <br />`chmod +x installer.sh`
