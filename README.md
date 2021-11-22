@@ -37,7 +37,7 @@ Choose your Desktop environment by running example
 After choosing your Desktop environment select your Drivers which matches your GPU by running
 <br />`cd Nvidia` or `cd AMD`
 
-## Start the Sript
+## Start the Script
 After entering the Driver folder, run
 <br />`chmod +x installer.sh`
 <br />`./installer.sh`
