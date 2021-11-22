@@ -1,7 +1,7 @@
-# How to install OlaiOS
+# **How to install OlaiOS**
 <img src="https://i.imgur.com/X8QbiuX.png"/>
 
-# Making a Bootable Device
+# **Making a Bootable Device**
 
 Download regular arch Linux
 <br />https://archlinux.org/download
@@ -13,18 +13,23 @@ For Linux and Mac Users, Download BalenaEtcher https://www.balena.io/etcher/
 After you made a bootable USB Drive launch it from BIOS / UEFI
 <br />After Arch Linux launches type
 
-## Building the OS
+## **Building the OS**
+    sudo pacman -Syyu
+#### That will update your operating system, but this may fail because of low storage, and after the update type
 
-`sudo pacman -Syyu` that will update your operating system, but this may fail because of low storage, and after the update type
-<br />`sudo pacman -S git` That will install git which will allow you to download OlaiOS
+    sudo pacman -S git
+ 
+#### That will install git which will allow you to download OlaiOS
 <br />After Git it downloaded type
-<br />`git clone https://github.com/OlaYZen/OlaiOS.git`
+    
+    git clone https://github.com/OlaYZen/OlaiOS.git
 
-After you have git clone, go to the OlaiOS Folder by Typing
-<br />`cd OlaiOS/`
+#### After you have git clone, go to the OlaiOS Folder by Typing
 
-## Selecting Desktop Environments
-Right now, There are 6 Desktop environments ready to download, there is
+    cd OlaiOS/
+
+## **Selecting Desktop Environments**
+#### Right now, There are 6 Desktop environments ready to download, there is
 
 - Cinnamon
 - GNOME
@@ -33,22 +38,32 @@ Right now, There are 6 Desktop environments ready to download, there is
 - Xfce4
 - Budgie
 
-Choose your Desktop environment by running example
-<br />`cd KDE`
-After choosing your Desktop environment select your Drivers which matches your GPU by running
-<br />`cd Nvidia` or `cd AMD`
+#### Choose your Desktop environment by running example
 
-## Start the Script
-After entering the Driver folder, run
-<br />`chmod +x installer.sh` then
-<br />`./installer.sh`
+    cd KDE
+#### After choosing your Desktop environment select your Drivers which matches your GPU by running
+    
+    cd Nvidia
+#### or 
 
-All necessary files will be automatically downloaded for you,
-<br />After installation you will be asked to create an account. Create the account and restart the computer
+    cd AMD
 
-OlaiOS should be fully installed
+## **Start the Script**
+#### After entering the Driver folder, run
+    
+    chmod +x installer.sh
+    
+#### then
 
-## Official Wiki
+    ./installer.sh
+
+#### All necessary files will be automatically downloaded for you,
+After installation you will be asked to create an account. 
+Create the account and restart the computer
+
+#### OlaiOS should be fully installed
+
+## **Official Wiki**
 - [Wiki](https://github.com/OlaYZen/OlaiOS/wiki)
 - [Discord](https://discord.gg/s7VPXh3qtS)
 - [Default Options](https://github.com/OlaYZen/OlaiOS/wiki/Default-Options)
