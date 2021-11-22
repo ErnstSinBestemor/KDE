@@ -19,15 +19,11 @@ After Git it downloaded type
 
 After you have git clone,
 Right now, There are 5 Desktop environments ready to download, there is
-
-**Cinnamon**
-
-**GNOME**
+<br />**Cinnamon**
+<br />**GNOME**
 <br />**KDE**
-
-**MATE**
-
-**Xfce4**
+<br />**MATE**
+<br />**Xfce4**
 
 Choose your Desktop environment by running example
 
