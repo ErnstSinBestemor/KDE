@@ -66,6 +66,16 @@ Create the account and restart the computer
 
 #### OlaiOS should be fully installed
 
+## **Credits**
+- Founder/Head Dev: OlaYZen#6969
+- Discord Administrator: websoprano#2767
+
+## **Software**
+OlaiOS was made from
+
+> **Base OS**
+> - ArchLinux
+
 ## **Official Wiki**
 - [Wiki](https://github.com/OlaYZen/OlaiOS/wiki)
 - [Discord](https://discord.gg/s7VPXh3qtS)
