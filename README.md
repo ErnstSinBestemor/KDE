@@ -23,7 +23,7 @@ After you have git clone, go to the OlaiOS Folder by Typing
 <br />`cd OlaiOS/`
 
 ## Selecting Desktop Environments
-<br />Right now, There are 5 Desktop environments ready to download, there is
+Right now, There are 5 Desktop environments ready to download, there is
 
 - Cinnamon
 - GNOME
@@ -37,7 +37,6 @@ After choosing your Desktop environment select your Drivers which matches your G
 <br />`cd Nvidia` or `cd AMD`
 
 ## Start the Sript
-
 After entering the Driver folder, run
 <br />`chmod +x installer.sh`
 <br />`./installer.sh`
