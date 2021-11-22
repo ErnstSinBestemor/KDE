@@ -1,4 +1,6 @@
-**How to install OlaiOS**
+# **How to install OlaiOS**
+
+##Making a Bootable Device
 
 Download regular arch Linux
 <br />**https://archlinux.org/download**
@@ -9,6 +11,8 @@ For Linux and Mac Users, Download **BalenaEtcher** "**https://www.balena.io/etch
 
 After you made a bootable USB Drive launch it from BIOS / UEFI
 <br />After Arch Linux launches type
+
+##Building the OS
 
 "**sudo pacman -S Syyu**" that will update your operating system and after the update type
 <br />"**sudo pacman -S git**" That will install git which will allow you to download OlaiOS
