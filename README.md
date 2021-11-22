@@ -44,4 +44,4 @@ All necessary files will be automatically downloaded for you,
 OlaiOS should be fully installed
 
 ## Official Wiki
-- [Wiki](https://github.com/OlaYZen/OlaiOS/wiki/OlaiOS-Official-Wiki)
+- [Wiki](https://github.com/OlaYZen/OlaiOS/wiki)
