@@ -45,5 +45,5 @@ OlaiOS should be fully installed
 
 ## Official Wiki
 - [Wiki](https://github.com/OlaYZen/OlaiOS/wiki)
-- [FaQ](https://github.com/OlaYZen/OlaiOS/wiki/Frequently-asked-Question)
+- [Frequently asked Question](https://github.com/OlaYZen/OlaiOS/wiki/Frequently-asked-Question)
 
