@@ -3,8 +3,6 @@
 # **Features**
 - Preinstalled Steam
 - Brave Browser as default browser
-- Custom Neofetch Logo
-- Custom wallpapers
 
 ## **Installing**
 Follow the Wiki [install](https://github.com/OlaYZen/OlaiOS/wiki/Installing-the-OS) guide and you should be set
