@@ -6,6 +6,10 @@
 	chmod +x ./kderice-backup.sh
 	chmod +x ./kderice-restore.sh
 	chmod +x ./setconsole.sh
+	chmod +x ./
+	chmod +x ./
+	chmod +x ./
+	chmod +x ./
 	bash 0-preinstall.sh
     arch-chroot /mnt /root/OlaiOS/1-setup.sh
     source /mnt/root/OlaiOS/install.conf
