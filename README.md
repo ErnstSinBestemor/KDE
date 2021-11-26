@@ -17,8 +17,11 @@ Follow the Wiki [install](https://github.com/OlaYZen/OlaiOS/wiki/Installing-the-
 ## **Software**
 OlaiOS was made from
 
-> **Base OS**
+**Base OS**
 > - ArchLinux
+#### Forked
+> - Forked from Chris Titus Tech's project "ArchTitus"
+
 
 ## **Official Wiki**
 - [Wiki](https://github.com/OlaYZen/OlaiOS/wiki)
