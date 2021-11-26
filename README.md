@@ -12,6 +12,7 @@ Follow the Wiki [install](https://github.com/OlaYZen/OlaiOS/wiki/Installing-the-
 ## **Credits**
 - Founder/Head Dev: OlaYZen#6969
 - Discord Administrator: websoprano#2767
+- ChrisTitusTech: Forked from project ArchTitus
 
 ## **Software**
 OlaiOS was made from
