@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/OlaYZen/OlaiOS/main/OlaiOS.png"/>
-<img src="https://i.imgur.com/X8QbiuX.png"/>
+<img src="https://github.com/OlaYZen/OlaiOS/blob/main/OlaiOSlogo.png?raw=true"/>
 
 #  **Features**
 - Preinstalled Steam
