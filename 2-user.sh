@@ -37,6 +37,7 @@ PKGS=(
 'nordic-darker-standard-buttons-theme'
 'nordic-darker-theme'
 'nordic-kde-git'
+'discord'
 'nordic-theme'
 'noto-fonts-emoji'
 'papirus-icon-theme'
