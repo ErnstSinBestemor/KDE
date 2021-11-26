@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/OlaYZen/OlaiOS/main/OlaiOS.png"/>
 <img src="https://i.imgur.com/X8QbiuX.png"/>
-# **Features**
+
+#  **Features**
 - Preinstalled Steam
 - Brave Browser as default browser
 
