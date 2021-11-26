@@ -3,6 +3,7 @@
 
 #  **Features**
 - Preinstalled Steam
+- Preinstalled Discord
 - Brave Browser as default browser
 
 ## **Installing**
