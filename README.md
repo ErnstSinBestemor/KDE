@@ -26,3 +26,4 @@ OlaiOS was made from
 ## **Official Wiki**
 - [Wiki](https://github.com/OlaYZen/OlaiOS/wiki)
 - [Installing](https://github.com/OlaYZen/OlaiOS/wiki/Installing-the-OS)
+- [Minimum requirements](https://github.com/OlaYZen/OlaiOS/wiki/Minimum-Requirements)
