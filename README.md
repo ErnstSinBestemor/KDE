@@ -13,6 +13,7 @@ Follow the Wiki [install](https://github.com/OlaYZen/OlaiOS/wiki/Installing-the-
 ## **Credits**
 - Founder/Head Dev: OlaYZen#6969
 - Discord Administrator: websoprano#2767
+- Tester: TheBaby2004#1204
 - [Chris Titus Tech](https://www.youtube.com/c/ChrisTitusTech): Forked from project [ArchTitus](https://github.com/ChrisTitusTech/ArchTitus)
 
 ## **Desktop Environment**
