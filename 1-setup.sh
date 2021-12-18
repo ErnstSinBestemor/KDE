@@ -54,15 +54,9 @@ pacman -Sy --noconfirm
 echo -e "\nInstalling Base System\n"
 
 PKGS=(
-'mesa' # Essential Xorg First
-'xorg'
-'xorg-server'
-'xorg-apps'
-'xorg-drivers'
-'xorg-xkill'
-'xorg-xinit'
+'xfce4' # Desktop Environment
+'xfce4-goodies' # Desktop Environment
 'xterm'
-'plasma-desktop' # KDE Load second
 'alsa-plugins' # audio plugins
 'alsa-utils' # audio utils
 'ark' # compression
@@ -78,8 +72,6 @@ PKGS=(
 'bluez'
 'bluez-libs'
 'bluez-utils'
-'breeze'
-'breeze-gtk'
 'bridge-utils'
 'btrfs-progs'
 'celluloid' # video players
@@ -120,11 +112,6 @@ PKGS=(
 'kate'
 'kcodecs'
 'kcoreaddons'
-'appstream'
-'appstream-qt'
-'packagekit-qt5'
-'kdeplasma-addons'
-'kde-gtk-config'
 'kinfocenter'
 'kscreen'
 'kvantum-qt5'
@@ -159,8 +146,6 @@ PKGS=(
 'patch'
 'picom'
 'pkgconf'
-'plasma-meta'
-'plasma-nm'
 'powerdevil'
 'powerline-fonts'
 'print-manager'
@@ -173,8 +158,6 @@ PKGS=(
 'python-pip'
 'qemu'
 'rsync'
-'sddm'
-'sddm-kcm'
 'snapper'
 'spectacle'
 'steam'
