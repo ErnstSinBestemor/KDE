@@ -1,6 +1,6 @@
 <img src="https://github.com/OlaiOS/KDE/blob/main/OlaiOS.png?raw=true"/>
 
-<img src="https://raw.githubusercontent.com/OlaYZen/OlaiOS/main/OlaiOSLogoRemakeSmall.png"/><img src="https://github.com/OlaYZen/OlaiOS/blob/main/OlaiOSlogo.png?raw=true"/>
+<img src="https://github.com/OlaiOS/KDE/blob/main/OlaiOSLogoRemakeSmall.png?raw=true"/><img src="https://github.com/OlaiOS/KDE/blob/main/OlaiOSlogo.png?raw=true"/>
 
 #  **Features**
 - Preinstalled Steam
