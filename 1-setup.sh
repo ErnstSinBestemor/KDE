@@ -140,7 +140,6 @@ PKGS=(
 'openbsd-netcat'
 'openssh'
 'os-prober'
-'oxygen'
 'p7zip'
 'pacman-contrib'
 'patch'
