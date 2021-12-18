@@ -19,7 +19,7 @@ sed -i 's/^#Para/Para/' /etc/pacman.conf
 pacman -S --noconfirm reflector rsync grub
 cp /etc/pacman.d/mirrorlist /etc/pacman.d/mirrorlist.backup
 echo -e "----------------------------------------------"
-echo -e "  ██████  ██       █████  ██  ██████  ███████ "
+echo -e "  ██████  ██       █████  ██  ██████  ███████  "
 echo -e " ██    ██ ██      ██   ██ ██ ██    ██ ██      "
 echo -e " ██    ██ ██      ███████ ██ ██    ██ ███████ "
 echo -e " ██    ██ ██      ██   ██ ██ ██    ██      ██ "
